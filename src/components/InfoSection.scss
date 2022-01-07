@@ -1,0 +1,35 @@
+.info__container {
+  display: grid;
+  justify-content: center;
+
+  background: black;
+}
+
+.info__word__container {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: 10vw;
+}
+
+.info__text {
+  font-size: calc(1.3rem + 0.6vw);
+  line-height: 1.5em;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 10vh;
+  font-family: "Roboto Slab", serif;
+}
+
+.info__text span {
+  padding: 3px;
+}
+
+.info__text span:hover {
+  color: #a0258f;
+}
+
+.info__text__two {
+  font-family: "Roboto Slab", serif;
+  margin-top: 7vh;
+}
