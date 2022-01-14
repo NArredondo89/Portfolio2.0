@@ -1,7 +1,7 @@
 .info__container {
   height: 100vh;
   width: 100%;
-  display: flex;
+
   flex-direction: column;
   justify-content: center;
   background: black;
@@ -38,4 +38,8 @@
 
 .info__text__two span:hover {
   color: #a0258f;
+}
+
+.skyDiveSVG {
+  height: 20vh;
 }

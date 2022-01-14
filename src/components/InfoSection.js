@@ -45,7 +45,9 @@ function InfoSection() {
           </div>
         </div>
       </div>
-      <div className="iconContainer"></div>
+      <div className="iconContainer">
+        <svg className="skyDiveSVG" src="./img/947.svg" />
+      </div>
     </>
   );
 }
